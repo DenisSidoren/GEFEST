@@ -17,7 +17,7 @@ sys.path.insert(0, os.path.abspath('../..'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'GEFEST'
+project = 'test-GEFEST'
 copyright = '2021-{}, NSS Lab'.format(datetime.datetime.now().year)
 author = 'NSS Lab'
 
